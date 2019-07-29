@@ -4,7 +4,7 @@ description: Dart extension library to communicate on serial port.
 author: Nicolas Francois  <nicolas.franc@gmail.com>
 homepage: https://github.com/nfrancois/serial_port
 environnment:
-  sdk: '>=1.13.0 >=2.0.0'
+  sdk: '>=1.13.0 >=2.5.0'
 dev_dependencies:
   grinder: ">=0.8.0 <0.9.0"
   ccompile: ">=0.2.10 <0.3.0"
